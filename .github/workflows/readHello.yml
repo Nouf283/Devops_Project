@@ -21,3 +21,9 @@ jobs:
         run: |
           echo "Content of hello.txt:"
           cat message.txt
+
+      - name: Print index.html content
+        run: |
+          echo "Content of index.html:"
+          cat index.html
+
