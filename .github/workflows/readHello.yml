@@ -2,7 +2,7 @@ name: CI-Hello Text Reader
 
 on:
   push:
-    branches:['main']
+    branches:["main"]
   
 
 jobs:
