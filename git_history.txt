@@ -1,0 +1,32 @@
+*   fda72cc (origin/feature3) Merge branch 'feature2' into feature3
+|\  
+| * 88ffb8a (origin/feature2, feature2) h1 changes
+* | 57285e1 (feature3) h1 changes on feature3
+| | *   98c60b9 (HEAD -> main, origin/main, backup/main) Merge branch 'develop' of github.com:Nouf283/Devops_Project
+| | |\  
+| | | *   45ec0ca (origin/develop) Merge pull request #4 from Nouf283/main
+| | | |\  
+| | * | \   3c0fc13 Merge branch 'main' of github.com:Nouf283/Devops_Project
+| | |\ \ \  
+| | | | |/  
+| | | |/|   
+| | | * | 190a228 Merge pull request #3 from Nouf283/develop
+| | | |\| 
+| | | | *   7136896 Merge pull request #2 from Nouf283/feature2
+| | | | |\  
+| | |_|_|/  
+| |/| | |   
+| * | | | be8926e (backup/feature2) Add intro paragraph and simple list to page
+| | |/ /  
+| |/| |   
+| | | * 2bf9596 Merge pull request #1 from Nouf283/feature3
+| | |/| 
+| |/|/  
+| |/|   
+|/| |   
+* | | a63fe08 (backup/feature3) Add footer with copyright notice
+|/ /  
+| * deea0e1 Merge remote-tracking branch 'backup/main'
+|/| 
+| * 5202dba Initial commit
+* f70895d (origin/feature1, backup/feature1, backup/develop, feature1, develop) Add Hello World HTML page
